@@ -1,0 +1,10 @@
+Next To Add
+
+
+Description of Themes/Templates that will be added next.
+
+
+Title: bootly_02
+--Responsive static template.
+--3 static pages with different content.
+--add different types of footer, display only 1 in demo.
