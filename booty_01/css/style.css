@@ -1,0 +1,10 @@
+/*CSS STYLE SHEET*/
+
+body {
+    background-color: #F8F8FF;
+}
+
+.thumbnail_div {
+    display: block;
+    padding: 10px;
+}
