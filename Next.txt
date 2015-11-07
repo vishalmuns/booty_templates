@@ -1,10 +1,1 @@
-Next To Add
-
-
-Description of Themes/Templates that will be added next.
-
-
-Title: bootly_02
---Responsive static template.
---3 static pages with different content.
---add different types of footer, display only 1 in demo.
+Next I will be adding 1 theme with multiple pages every week and if you need any particular theme to be changed/customised for your project get in touch on admin@vishalmuns.com
